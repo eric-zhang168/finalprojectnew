@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/0.gif</file>
+        <file>images/1.gif</file>
+        <file>images/10.gif</file>
+        <file>images/2.gif</file>
+        <file>images/3.gif</file>
+        <file>images/4.gif</file>
+        <file>images/5.gif</file>
+        <file>images/6.gif</file>
+        <file>images/7.gif</file>
+        <file>images/8.gif</file>
+        <file>images/9.gif</file>
+        <file>images/airplaneD.png</file>
+        <file>images/airplaneU.png</file>
+        <file>images/logo.png</file>
+        <file>images/missileD.gif</file>
+        <file>images/missileL.gif</file>
+        <file>images/missileLD.gif</file>
+        <file>images/missileLU.gif</file>
+        <file>images/missileR.gif</file>
+        <file>images/missileRD.gif</file>
+        <file>images/missileRU.gif</file>
+        <file>images/missileU.gif</file>
+        <file>images/skypicture5.jpeg</file>
+    </qresource>
+</RCC>

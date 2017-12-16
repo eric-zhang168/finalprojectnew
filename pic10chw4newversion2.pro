@@ -25,14 +25,12 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp \
     airplane.cpp \
     missile.cpp \
     explode.cpp \
     sky.cpp
 
 HEADERS += \
-        mainwindow.h \
     airplane.h \
     missile.h \
     explode.h \
@@ -40,3 +38,28 @@ HEADERS += \
     pub.h
 
 FORMS +=
+
+RESOURCES += \
+    useless.qrc \
+    planeimages.qrc
+
+DISTFILES += \
+    ../../images/2.gif \
+    ../../images/3.gif \
+    ../../images/4.gif \
+    ../../images/5.gif \
+    ../../images/6.gif \
+    ../../images/7.gif \
+    ../../images/8.gif \
+    ../../images/9.gif \
+    ../../images/missileL.gif \
+    ../../images/missileLD.gif \
+    ../../images/missileLU.gif \
+    ../../images/missileR.gif \
+    ../../images/missileRD.gif \
+    ../../images/missileRU.gif \
+    ../../images/missileU.gif \
+    ../../images/skypicture5.jpeg \
+    ../../images/airplaneD.png \
+    ../../images/airplaneU.png \
+    ../../images/logo.png
