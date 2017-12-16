@@ -36,6 +36,7 @@ HEADERS += \
     airplane.h \
     missile.h \
     explode.h \
-    sky.h
+    sky.h \
+    pub.h
 
 FORMS +=
